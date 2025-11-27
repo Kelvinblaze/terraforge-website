@@ -1,5 +1,5 @@
 {
-  "name": "terraforge-website",
+  "name": "terraforge",
   "main": "worker/worker.js",
   "compatibility_date": "2024-01-01",
   "assets": {
