@@ -8,5 +8,5 @@ export default {
 
     // Else serve the SPA entrypoint
     return env.ASSETS.fetch(new Request("/index.html"));
-  },
+  }
 };

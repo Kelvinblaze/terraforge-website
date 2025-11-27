@@ -1,9 +1,9 @@
 {
   "name": "terraforge",
-  "main": "./build/server/index.js",
-  "compatibility_date": "2024-01-01",
-  "compatibility_flags": ["nodejs_compat"],
+  "main": "./worker/worker.js",
+  "compatibility_date": "2024-09-23",
   "assets": {
     "directory": "./build/client",
-  },
+    "binding": "ASSETS"
+  }
 }
