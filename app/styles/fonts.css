@@ -1,0 +1,103 @@
+/* Roobert Font Family */
+
+/* Roobert Light */
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-lightitalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Roobert Regular */
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-regularitalic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Roobert Medium */
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-mediumitalic.otf") format("opentype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Roobert SemiBold */
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-semibold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-semibolditalic.otf") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Roobert Bold */
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-bolditalic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Roobert Heavy */
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-heavy.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roobert";
+  src: url("/fonts/roobert/roobert-heavyitalic.otf") format("opentype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
