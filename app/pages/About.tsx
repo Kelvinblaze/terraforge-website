@@ -192,7 +192,7 @@ export default function AboutPage() {
 // Timeline Item Component
 function TimelineItem({ year, title, description, image, isRight }: TimelineItemProps) {
     return (
-        <div className={`flex gap-8 items-center ${isRight ? 'md:flex-row-reverse' : ''}`}>
+        <div className={`md:flex block gap-8 items-center  space-y-5 md:space-y-0 ${isRight ? 'md:flex-row-reverse' : ''}`}>
             <div className="flex-1">
                 <div className={`${isRight ? 'md:text-right' : ''}`}>
                     <p
@@ -208,7 +208,7 @@ function TimelineItem({ year, title, description, image, isRight }: TimelineItem
                 </div>
             </div>
 
-            <div className="w-20 h-20 shrink-0 rounded-full flex items-center justify-center" style={{ backgroundColor: colors.primary }}>
+            <div className="w-20 h-20 shrink-0 rounded-full md:flex items-center justify-center hidden" style={{ backgroundColor: colors.primary }}>
                 <div className="w-8 h-8 rounded-full" style={{ backgroundColor: colors.black }} />
             </div>
 
