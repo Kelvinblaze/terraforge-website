@@ -514,7 +514,7 @@ const services: Service[] = [
             "Asphalt and concrete paving",
             "Road maintenance and rehabilitation",
         ],
-        image: "/images/road-construction.png",
+        image: "/images/road-construction.webp",
     },
     {
         name: "Building Construction",
@@ -525,7 +525,7 @@ const services: Service[] = [
             "High-rise structures",
             "Renovation and remodeling",
         ],
-        image: "/images/building-construction.png",
+        image: "/images/building-construction.webp",
     },
     {
         name: "Infrastructure Development",
@@ -536,7 +536,7 @@ const services: Service[] = [
             "Industrial facilities",
             "Public works projects",
         ],
-        image: "/images/infrastructure-development.png",
+        image: "/images/infrastructure-development.webp",
     },
 ];
 
