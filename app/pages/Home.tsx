@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { colors } from "../styles/colors";
-import Footer from "../components/Footer";
+
 
 export default function HomePage() {
     return (
@@ -514,7 +514,7 @@ const services: Service[] = [
             "Asphalt and concrete paving",
             "Road maintenance and rehabilitation",
         ],
-        image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2400&auto=format&fit=crop",
+        image: "/images/road-construction.png",
     },
     {
         name: "Building Construction",
@@ -525,7 +525,7 @@ const services: Service[] = [
             "High-rise structures",
             "Renovation and remodeling",
         ],
-        image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2400&auto=format&fit=crop",
+        image: "/images/building-construction.png",
     },
     {
         name: "Infrastructure Development",
@@ -536,7 +536,7 @@ const services: Service[] = [
             "Industrial facilities",
             "Public works projects",
         ],
-        image: "https://images.unsplash.com/photo-1590481216019-6ce8a9fdaf98?q=80&w=2400&auto=format&fit=crop",
+        image: "/images/infrastructure-development.png",
     },
 ];
 
