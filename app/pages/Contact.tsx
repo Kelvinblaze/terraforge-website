@@ -492,14 +492,14 @@ const contactInfo = [
     {
         icon: "📞",
         title: "Phone",
-        value: "+2348092111109",
-        link: "tel:+2348092111109",
+        value: "+23480123456789",
+        link: "tel:+23480123456789",
     },
     {
         icon: "📞",
         title: "Phone",
-        value: "+2347078163455",
-        link: "tel:+2347078163455",
+        value: "+23480123456789",
+        link: "tel:+23480123456789",
     },
     {
         icon: "⏰",
