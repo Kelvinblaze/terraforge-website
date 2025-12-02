@@ -489,18 +489,18 @@ const contactInfo = [
         value: "hello@terraforgeco.com",
         link: "mailto:hello@terraforgeco.com",
     },
-    {
-        icon: "📞",
-        title: "Phone",
-        value: "+23480123456789",
-        link: "tel:+23480123456789",
-    },
-    {
-        icon: "📞",
-        title: "Phone",
-        value: "+23480123456789",
-        link: "tel:+23480123456789",
-    },
+    // {
+    //     icon: "📞",
+    //     title: "Phone",
+    //     value: "+23480123456789",
+    //     link: "tel:+23480123456789",
+    // },
+    // {
+    //     icon: "📞",
+    //     title: "Phone",
+    //     value: "+23480123456789",
+    //     link: "tel:+23480123456789",
+    // },
     {
         icon: "⏰",
         title: "Business Hours",

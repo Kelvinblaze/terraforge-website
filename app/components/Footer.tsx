@@ -50,7 +50,7 @@ export default function Footer() {
                         <h4 className="text-lg font-semibold mb-4">Contact</h4>
                         <ul className="space-y-2" style={{ color: colors.gray400 }}>
                             <li>hello@terraforgeco.com</li>
-                            <li>+23480123456789, +23480123456789</li>
+                            {/* <li>+23480123456789, +23480123456789</li> */}
                             <li className="pt-4">
                                 <div className="flex gap-4">
                                     {['LinkedIn', 'Instagram'].map((social) => (
